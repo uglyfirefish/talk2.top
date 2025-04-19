@@ -1,0 +1,15 @@
+title: 道言学堂 | Daoyan Academy description: A new approach to Bible study integrating Double Discourse Theory (DDT) with traditional exegesis. url: https://talk2.top baseurl: "" permalink: /:year/:month/:day/:title/ markdown: kramdown plugins:
+
+
+
+
+
+jekyll-sitemap
+
+
+
+jekyll-seo-tag collections: studies: output: true defaults:
+
+
+
+scope: path: "" values: layout: default

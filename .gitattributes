@@ -1,2 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+_site/ .sass-cache/ .jekyll-cache/ .jekyll-metadata vendor/
